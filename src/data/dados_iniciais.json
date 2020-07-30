@@ -1,0 +1,217 @@
+{
+  "categorias": [
+    {
+      "titulo": "Louvores de crianças",
+      "link": "https://www.youtube.com/c/IgrejaCrist%C3%A3MaranataOficial/playlists",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Canal oficial",
+        "url": "https://www.youtube.com/c/IgrejaCrist%C3%A3MaranataOficial/playlists"
+      },
+      "videos": [
+        {
+          "titulo": "Igreja Cristã Maranata",
+          "url": "https://youtu.be/NT_7JzfmUfg?t=24"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=plm8gy7WnIk&list=PLidOZq9zaXefZS-OseH9pt58yRm71-ypC&index=2&t=0s"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=NQOElTbG56E&list=PLidOZq9zaXefZS-OseH9pt58yRm71-ypC&index=11&t=0s"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=4NNDIpX9Gf4&list=PLidOZq9zaXefZS-OseH9pt58yRm71-ypC&index=12&t=5s"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=WLLKbufMj80&list=PLidOZq9zaXefZS-OseH9pt58yRm71-ypC&index=13&t=0s"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=9trCpgEQpdE&list=PLidOZq9zaXefZS-OseH9pt58yRm71-ypC&index=24&t=0s"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=y7yot7p-_Uw&list=PLidOZq9zaXefZS-OseH9pt58yRm71-ypC&index=37&t=0s"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=3RoZUArqIts&list=PLidOZq9zaXefZS-OseH9pt58yRm71-ypC&index=40&t=0s"
+        }
+      ]
+    },
+    {
+      "titulo": "Crianças de 0 a 3 anos e Gestantes",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "A fé na vida de Davi",
+          "url": "https://youtu.be/oMIqz88xP8Y?t=37"
+        },
+        {
+          "titulo": "A fé na vida de Moisés",
+          "url": "https://youtu.be/m5UORx-Jzak?t=37"
+        },
+        {
+          "titulo": "A fé na vida de Gideão",
+          "url": "https://youtu.be/XCTsYNxDr8c?t=37"
+        },
+        {
+          "titulo": "A fé na vida de Sansão",
+          "url": "https://youtu.be/JUJdrMPHuqc"
+        },
+        {
+          "titulo": "A fé na vida de Daniel",
+          "url": "https://youtu.be/XiBEdgl80sc"
+        },
+        {
+          "titulo": "A preciosa semente",
+          "url": "https://www.youtube.com/watch?v=NbbAXF7l6wY"
+        }
+      ]
+    },
+    {
+      "titulo": "Adolescentes e Jovens",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Palavra da vida",
+          "url": "https://www.youtube.com/watch?v=SJqODCcPfCY"
+        },
+        {
+          "titulo": "Palavra viva",
+          "url": "https://www.youtube.com/watch?v=WgWcPVapsaA"
+        },
+        {
+          "titulo": "A familia",
+          "url": "https://www.youtube.com/watch?v=weHK8C4Ko64"
+        },
+        {
+          "titulo": "Santo e profano",
+          "url": "https://www.youtube.com/watch?v=Ps3oFxMbYQ0"
+        },
+        {
+          "titulo": "O filho sensato",
+          "url": "https://www.youtube.com/watch?v=ApsBU7ndFxg"
+        },
+        {
+          "titulo": "A obediencia",
+          "url": "https://www.youtube.com/watch?v=0pDRQ1a3ruk"
+        },
+        {
+          "titulo": "Fé, o firme fundamento",
+          "url": "https://youtu.be/-jQAKNpzE9E"
+        },
+        {
+          "titulo": "A fé na vida de Gideão",
+          "url": "https://youtu.be/i4TwHXABrLs"
+        },
+        {
+          "titulo": "A vitória através da fé",
+          "url": "https://youtu.be/oM4-W7lof0c"
+        }
+      ]
+    },
+    {
+      "titulo": "Acessibilidade",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=Re-Bz3YJ7dI"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=NB6DI1qPrnw"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=lKLbPZnLKGc"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=drniMTTvedo"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=BOUvTXIOma0&t=182s"
+        }
+      ]
+    },
+    {
+      "titulo": "Louvores que tocam",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=EcVd9rLnrj0&list=PLidOZq9zaXedqPRH_URsb4-sT3Trm83Ft&index=11"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=v7NgdaaNmJg&list=PLidOZq9zaXedqPRH_URsb4-sT3Trm83Ft&index=20"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=MqCwFPb9KZc&list=PLidOZq9zaXedqPRH_URsb4-sT3Trm83Ft&index=22"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=ET-Srvg0jac&list=PLidOZq9zaXedqPRH_URsb4-sT3Trm83Ft&index=36"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=hdVkuYew_Sg&list=PLidOZq9zaXedqPRH_URsb4-sT3Trm83Ft&index=39"
+        }
+      ]
+    },
+    {
+      "titulo": "Acessibilidade 2",
+      "cor": "red",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=5mXSr1_EOxU"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=tIkwfRQYOf0"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=866A1g9c7w8"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=6V07EZwHsCc"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=xprQRNXEwWU&t=119s"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=6MxiXo5Lq30"
+        }
+      ]
+    }
+  ]
+}
